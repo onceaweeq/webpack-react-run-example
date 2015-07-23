@@ -1,0 +1,25 @@
+{
+  "name": "webpack-react-run-example",
+  "version": "1.0.0",
+  "description": "To run react with jsx on the webpack quickly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onceaweeq/webpack-react-run-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "example",
+    "environment"
+  ],
+  "author": "Juncheol Cho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onceaweeq/webpack-react-run-example/issues"
+  },
+  "homepage": "https://github.com/onceaweeq/webpack-react-run-example#readme"
+}
