@@ -1,5 +1,6 @@
 # webpack-react-run-example
-To run react with jsx on the webpack quickly
+**To run react with jsx on the webpack quickly**  
+***npm***: https://www.npmjs.com/package/webpack-react-run-example
 
 # How to start
 1. **Clone this project**
