@@ -2,18 +2,28 @@
 To run react with jsx on the webpack quickly
 
 # How to start
-1. Clone this project
-  - `$ git clone https://github.com/onceaweeq/webpack-react-run-example.git`
-  - `$ cd webpack-react-run-example`
+1. **Clone this project**
+```
+$ git clone https://github.com/onceaweeq/webpack-react-run-example.git
+$ cd webpack-react-run-example
+```
 
-- Install webpack and webpack dev server
-  - `$ sudo npm install webpack webpack-dev-server -g`
+2. **Install webpack and webpack dev server**
+```
+$ sudo npm install webpack webpack-dev-server -g
+```
 
-- Install dependency packages
-  - `$ npm install`
+3. **Install dependency packages**
+```
+$ npm install
+```
 
-- Run webpack-dev-server
-  - `$ npm test`
+4. **Run webpack-dev-server**
+```
+$ npm test
+```
 
-- Check client:
-  - http://localhost:8080/webpack-dev-server/
+5. **Check working well**
+```
+http://localhost:8080/webpack-dev-server/
+```
