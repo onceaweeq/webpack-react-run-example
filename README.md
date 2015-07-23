@@ -14,3 +14,6 @@ To run react with jsx on the webpack quickly
 
 - Run webpack-dev-server
   - `$ npm test`
+
+- Check client:
+  - http://localhost:8080/webpack-dev-server/
